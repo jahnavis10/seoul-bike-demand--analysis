@@ -49,4 +49,3 @@ SeoulBikeProject/
 │
 ├── SeoulBikeProject.ipynb      # Jupyter notebook with full analysis
 ├── README.md                   # Project documentation
-└── /data                       # Dataset files (optional)
